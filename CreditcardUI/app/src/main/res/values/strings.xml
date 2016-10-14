@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CreditcardUI</string>
+    <string name="entcard_balance">Emter Card Balance ($)</string>
+    <string name="yearly_interest">Enter Yearly Interest Rate (%)</string>
+    <string name="minimum_payment">Enter Minimum Payment ($)</string>
+    <string name="fincard_balance">Final Card Balance ($)</string>
+    <string name="months_remaining">Months Remaining</string>
+    <string name="interest_to_be">Interest Paid Will Be</string>
+    <string name="compute">COMPUTE</string>
+    <string name="clear">CLEAR</string>
+</resources>
